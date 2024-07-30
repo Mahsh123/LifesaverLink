@@ -1,0 +1,2 @@
+# LifesaverLink
+ LifesaverLink is a life-saving digital platform designed to streamline the process of blood donation and management. The app connects blood donors with those in need, ensuring a steady supply of blood for hospitals and emergency situations. By leveraging modern technology, LifesaverLink aims to enhance the efficiency of blood banks, improve donor engagement, and ensure timely access to critical blood resources.
